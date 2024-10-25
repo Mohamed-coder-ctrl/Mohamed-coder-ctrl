@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Mohamed! 
 
-Welcome to my GitHub profile! I'm a senior bachelor student. I major in business management pathway finance. with a passion for finance and IT, and everything in between. I love to learn, build projects. 
+Welcome to my GitHub profile! I'm a senior bachelor student. I major in business management pathway finance. with a passion for finance and IT, and everything in between. I love to learn, and build projects. 
 
  🚀 About Me
 - 🌱 I’m currently learning both Python and R for finance, and advanced Excel for finance. As well as Power BI for finance. 
